@@ -12,6 +12,5 @@ APP_ID: "wx0b26083870774359"
 APP_SECRET: "c4bd55a2663952b8d54a81d4f2d8fc32"
 
 USER_ID: 
-  - "微信公众平台的 USER ID"
-  - "USER ID 2" # 你可以通过配置多个USER_ID来设置多个接受者，如果接受者只有一人删除本行即可
+  - "ohCua5sulBovoKkLNaoLwRLQyRy4"
 TEMPLATE_ID: "微信公众平台的 TEMPLATE ID"
